@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-03T21:41:14.656Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="thMmiqiJh6K9HRLrNVPJ" version="21.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-03T22:16:07.108Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="KLgAay4em0LCDfJk9Wy7" version="21.5.0" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="726" dy="728" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -40,7 +40,7 @@
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-10" value="Build New&amp;nbsp;&lt;br&gt;Docker Image" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="160" y="520" width="120" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="zpZVX1pvcwlvl4PUZZFd-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-11" target="zpZVX1pvcwlvl4PUZZFd-19">
+        <mxCell id="zpZVX1pvcwlvl4PUZZFd-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-11" target="zpZVX1pvcwlvl4PUZZFd-27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-11" value="Push Docker Image&amp;nbsp;&lt;br&gt;to Registry" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -74,16 +74,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="T97yZLCThNXQbYkjwibR-20" value="Capture Log for Deployment of new POD/Container&lt;br&gt;Success / Failures" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="160" y="1340" width="130" height="60" as="geometry" />
+          <mxGeometry x="154" y="1390" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="T97yZLCThNXQbYkjwibR-25" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="T97yZLCThNXQbYkjwibR-22" target="T97yZLCThNXQbYkjwibR-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="T97yZLCThNXQbYkjwibR-22" value="Apache Web Server&amp;nbsp;&lt;br&gt;Display Log deploy&lt;br&gt;Success / Failure" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="160" y="1440" width="130" height="60" as="geometry" />
+          <mxGeometry x="154" y="1490" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="T97yZLCThNXQbYkjwibR-24" value="Email the Repot" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="375" y="1440" width="130" height="60" as="geometry" />
+          <mxGeometry x="369" y="1490" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zpZVX1pvcwlvl4PUZZFd-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zpZVX1pvcwlvl4PUZZFd-6" target="zpZVX1pvcwlvl4PUZZFd-9">
           <mxGeometry relative="1" as="geometry" />
@@ -103,8 +103,23 @@
         <mxCell id="zpZVX1pvcwlvl4PUZZFd-14" value="No New&lt;br&gt;CVEs / Vulnerabilites" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="174.25" y="860" width="90" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="zpZVX1pvcwlvl4PUZZFd-19" value="Deploy &lt;br&gt;New Image&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;to&lt;br&gt;OpenShift &lt;br&gt;Cluster" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="154" y="1110" width="130" height="130" as="geometry" />
+        <mxCell id="zpZVX1pvcwlvl4PUZZFd-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zpZVX1pvcwlvl4PUZZFd-26" target="zpZVX1pvcwlvl4PUZZFd-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zpZVX1pvcwlvl4PUZZFd-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zpZVX1pvcwlvl4PUZZFd-26" target="T97yZLCThNXQbYkjwibR-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zpZVX1pvcwlvl4PUZZFd-26" value="Validate&lt;br&gt;New Image&lt;br&gt;&amp;nbsp;Is functioning in&lt;br&gt;FIPS Enable &lt;br&gt;Cluster" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="156" y="1220" width="126" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="zpZVX1pvcwlvl4PUZZFd-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zpZVX1pvcwlvl4PUZZFd-27" target="zpZVX1pvcwlvl4PUZZFd-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zpZVX1pvcwlvl4PUZZFd-27" value="Deploy New Image to FIPS Enable OpenShift Cluster" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="159" y="1112" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zpZVX1pvcwlvl4PUZZFd-32" value="If&amp;nbsp;No Remove New Image&amp;nbsp;" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="365" y="1245" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
