@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-12T16:20:31.463Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="i4okZdYCtN608dV4uxTY" version="21.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-12T16:24:56.149Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="1BmM2rjNJqTS1s2LKtCg" version="21.6.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2441" dy="923" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -23,7 +23,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="021FTvfs2HnjriQjJ2VA-1" value="&lt;h1&gt;?&lt;/h1&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-5">
+        <mxCell id="021FTvfs2HnjriQjJ2VA-1" value="&lt;h2&gt;?&lt;/h2&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-5">
           <mxGeometry x="-0.1798" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -76,13 +76,13 @@
         <mxCell id="T97yZLCThNXQbYkjwibR-23" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="T97yZLCThNXQbYkjwibR-20" target="T97yZLCThNXQbYkjwibR-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="T97yZLCThNXQbYkjwibR-20" value="Capture Log for Deployment of new POD/Container&lt;br&gt;Success / Failures" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="T97yZLCThNXQbYkjwibR-20" value="Capture Log for Deployment of new POD/Container&lt;br&gt;Success" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="211.88" y="1260" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="T97yZLCThNXQbYkjwibR-25" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="T97yZLCThNXQbYkjwibR-22" target="T97yZLCThNXQbYkjwibR-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="T97yZLCThNXQbYkjwibR-22" value="Apache Web Server&amp;nbsp;&lt;br&gt;Display Log deploy&lt;br&gt;Success / Failure" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="T97yZLCThNXQbYkjwibR-22" value="Apache Web Server&amp;nbsp;&lt;br&gt;Display deploy&amp;nbsp;&lt;br&gt;Success / Failure" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="211.88" y="1360" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="T97yZLCThNXQbYkjwibR-24" value="Email the Repot" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -97,7 +97,7 @@
         <mxCell id="021FTvfs2HnjriQjJ2VA-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zpZVX1pvcwlvl4PUZZFd-9" target="WIyWlLk6GJQsqaUBKTNV-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="021FTvfs2HnjriQjJ2VA-7" value="&lt;h1&gt;No&lt;/h1&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="021FTvfs2HnjriQjJ2VA-6">
+        <mxCell id="021FTvfs2HnjriQjJ2VA-7" value="&lt;h2&gt;No&lt;/h2&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="021FTvfs2HnjriQjJ2VA-6">
           <mxGeometry x="-0.3869" y="1" relative="1" as="geometry">
             <mxPoint x="-1" y="15" as="offset" />
           </mxGeometry>
@@ -105,7 +105,7 @@
         <mxCell id="021FTvfs2HnjriQjJ2VA-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zpZVX1pvcwlvl4PUZZFd-9" target="021FTvfs2HnjriQjJ2VA-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="021FTvfs2HnjriQjJ2VA-10" value="&lt;h1&gt;Yes&lt;/h1&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="021FTvfs2HnjriQjJ2VA-9">
+        <mxCell id="021FTvfs2HnjriQjJ2VA-10" value="&lt;h2&gt;Yes&lt;/h2&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="021FTvfs2HnjriQjJ2VA-9">
           <mxGeometry x="-0.0748" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -115,6 +115,11 @@
         </mxCell>
         <mxCell id="zpZVX1pvcwlvl4PUZZFd-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zpZVX1pvcwlvl4PUZZFd-26" target="zpZVX1pvcwlvl4PUZZFd-32" edge="1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="021FTvfs2HnjriQjJ2VA-12" value="&lt;h2&gt;No&lt;/h2&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="zpZVX1pvcwlvl4PUZZFd-33">
+          <mxGeometry x="-0.015" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="zpZVX1pvcwlvl4PUZZFd-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zpZVX1pvcwlvl4PUZZFd-26" target="T97yZLCThNXQbYkjwibR-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -128,8 +133,8 @@
         <mxCell id="zpZVX1pvcwlvl4PUZZFd-27" value="Deploy New Image to FIPS Enable OpenShift Cluster" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="216.88" y="975" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zpZVX1pvcwlvl4PUZZFd-32" value="If&amp;nbsp;No Remove New Image&amp;nbsp;" style="whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="422.88" y="1115" width="120" height="60" as="geometry" />
+        <mxCell id="zpZVX1pvcwlvl4PUZZFd-32" value="Correction / Action&lt;br&gt;Capture Log for Deployment of new POD/Container&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&amp;nbsp;Failures" style="whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="436.88" y="1102.5" width="120" height="85" as="geometry" />
         </mxCell>
         <mxCell id="021FTvfs2HnjriQjJ2VA-8" value="Fix The CVEs" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="431" y="746" width="148.25" height="60" as="geometry" />
